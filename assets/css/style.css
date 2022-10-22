@@ -60,7 +60,7 @@ a {
 }
 
 .message button:hover {
-    background-color: #AD292E;
+    background-color: #C77A61;
 }
 
 .formulario {
@@ -74,6 +74,7 @@ a {
 .create-account {
     padding: 2.7rem 0;
     font-size: 1.7rem;
+    color: #fff;
 }
 
 .iconos {
@@ -104,6 +105,7 @@ a {
 .cuenta-gratis {
     padding: 2rem 0;
     font-weight: bolder;
+    color: #fff;
 }
 
 .formulario input {
